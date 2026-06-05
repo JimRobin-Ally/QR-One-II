@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <rect width="120" height="120" rx="60" fill="#FFFFFF"/>
+  <circle cx="60" cy="60" r="46" fill="#EAF7ED" stroke="#08753D" stroke-width="5"/>
+  <text x="60" y="55" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#08753D">KKN</text>
+  <text x="60" y="78" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#425247">2026</text>
+</svg>
