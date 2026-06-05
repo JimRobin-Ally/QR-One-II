@@ -22,8 +22,8 @@ const CONFIG = {
 
   assets: {
     mainLogo: "assets/logo-desa.svg",
-    kknLogo: "assets/Logo-KKN.png",
-    campusLogo: "assetsLambang-UGM.png"
+    kknLogo: "assets/Logo KKN.png",
+    campusLogo: "assets/Lambang-UGM.png"
   },
 
   // Satu Google Form untuk semua pendaftaran/pembaruan data.
