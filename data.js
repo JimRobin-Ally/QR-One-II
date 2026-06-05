@@ -14,11 +14,10 @@ const CONFIG = {
   site: {
     title: "QR-One Argosari",
     eyebrow: "PORTAL INFORMASI DIGITAL",
-    subtitle: "Satu QR untuk informasi desa.",
-    notice: "Satu akses untuk peta, UMKM, wisata, fasilitas umum, dan mitigasi.",
+    subtitle: "Satu QR untuk semua.",
+    notice: "Satu akses untuk informasi dan layanan desa.",
     validationText: "Informasi diperbarui berdasarkan observasi lapangan dan verifikasi bersama pihak terkait.",
-    footer: "QR-One Argosari - Program Kerja KKN",
-    lastUpdated: "16 Mei 2026"
+    footer: "QR-One Argosari",
   },
 
   assets: {
